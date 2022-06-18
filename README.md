@@ -4,7 +4,7 @@ Neste repositório, é possível encontrar as atividades e os projetos desenvolv
 
 ## Créditos ##
 
-Uma parte representativa dos arquivos foi disponibilizada e/ou construída em aula pelo prof. André Kishimoto, principalmente a implementação pura (.h + .cpp) das primeiras estruturas de dados, como pilha e fila estáticas. Com base em todo o feedback passado, agradeço ao professor pela ajuda. Além disso, alguns exercícios foram realizados em conjunto ao aluno Lucas de Camargo Gonçalves.
+Parte do código foi baseada no material de aula de Estrutura de Dados I do prof. André Kishimoto (Ciência da Computação - Universidade Presbiteriana Mackenzie). Ou seja, uma fração representativa dos arquivos foi disponibilizada e/ou construída em aula pelo prof. André Kishimoto, principalmente a implementação pura (.h + .cpp) das primeiras estruturas de dados, como pilha e fila estáticas. Com base em todo o feedback passado, agradeço ao professor pela ajuda. Além disso, alguns exercícios foram realizados em conjunto ao aluno Lucas de Camargo Gonçalves.
 
 ## Observações ##
 
